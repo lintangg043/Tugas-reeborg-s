@@ -35,3 +35,4 @@ def lompat():
     
 while(not at_goal()):
     lompat()
+
